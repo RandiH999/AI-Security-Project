@@ -21,9 +21,3 @@ Adversarial training using FGSM-generated examples.
 - PyTorch
 - NumPy
 - Matplotlib
-
-- torch
-torchvision
-numpy
-matplotlib
-Initial commit: AI Security Project (MNIST + FGSM + Defense)
